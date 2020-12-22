@@ -2,4 +2,4 @@
 
 **Número único 2: en progreso/wip**
 
-![ace](https://i.imgur.com/zxDW61q.png)
+![](https://i.imgur.com/zxDW61q.png)
