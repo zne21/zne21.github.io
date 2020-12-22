@@ -4,9 +4,36 @@
     <title>Mal Gusto Fanzine</title>
     <link rel="stylesheet" href="styles.css">
     <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  </head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+* {
+  box-sizing: border-box;
+}
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+    </style>
+      
+  </head>
+  
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/zne21/zne21.github.io/main/assets/01.png" alt="Tapa n1" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/zne21/zne21.github.io/main/assets/02.png" alt="Tapa n2" style="width:50%">
+  </div>
+</div>
+  
   <body>
     <p></p>
   </body>
