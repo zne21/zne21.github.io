@@ -1,11 +1,3 @@
 body {
-  background-color: black;
-}
-h1 {
-  color: white;
-  font-family: georgia;
-}
-p {
-  color: white;
-  font-family: georgia;
+  background-color: black;font-family: Georgia, serif;
 }
