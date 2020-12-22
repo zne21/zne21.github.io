@@ -1,1 +1,1 @@
-This is the code of my site.
+The code of my site.
