@@ -45,3 +45,8 @@ a:hover {
 a:active {
   color: royalBlue;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
