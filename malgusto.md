@@ -2,4 +2,4 @@
 
 **Número único 2: en progreso/wip**
 
-![ace]https://drive.google.com/file/d/1eWxcPptu1LLaE8zJcZFj6EErYugRwVtd/view?usp=sharing
+![ace]https://i.imgur.com/zxDW61q.png
