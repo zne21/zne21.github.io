@@ -31,11 +31,11 @@ p {
 }
 
 a:link {
-  color: white;
+  color: lightcyan;
 }
 
 a:visited {
-  color: gainsboro;
+  color: blueviolet;
 }
 
 a:hover {
